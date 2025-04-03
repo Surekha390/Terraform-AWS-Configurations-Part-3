@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"consul","Source":"git::https://github.com/Surekha390/surekha-ec2-module.git","Dir":".terraform/modules/consul"}]}
