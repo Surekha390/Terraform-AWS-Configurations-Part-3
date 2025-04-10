@@ -1,3 +1,11 @@
+
+#with version number
+module "consul" {
+  source = "github.com/Surekha390/surekha-ec2-module?ref=v1.0.0"
+}
+
+/* 
+#without version number
 module "consul" {
   source = "github.com/Surekha390/surekha-ec2-module"
 }
